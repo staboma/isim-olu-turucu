@@ -1,2 +1,2 @@
-# isim-olu-turucu
+# isim-olusturucu
 Python dilinde yazmış olduğum isim oluşturucu örneğim
